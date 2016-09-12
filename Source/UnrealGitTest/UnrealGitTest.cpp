@@ -5,3 +5,5 @@
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, UnrealGitTest, "UnrealGitTest" );
 
 // add comment test with VS built-in fetch, pull, push
+
+// test fetch and merge (local side, modify after Merge Differences Test was pushed)
